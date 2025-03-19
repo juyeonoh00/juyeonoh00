@@ -1,16 +1,16 @@
-## Hi there 👋
+##👋 Welcome to juyeonoh00's Github!
 
-<!--
-**juyeonoh00/juyeonoh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Projects
+
+
+📊 Stats
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juyeon)](https://solved.ac/juyeon/)
+[![주연's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeonoh00)](https://github.com/anuraghazra/github-readme-stats)
+
+
+📫 Contact
+- Email : oh_ju_yeon@naver.com
